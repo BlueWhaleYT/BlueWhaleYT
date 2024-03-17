@@ -13,7 +13,7 @@ I will contribute to projects if I am willing to. For example, I will contribute
 
 - 🌱 I’m currently learning **Kotlin, Java, Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BlueWhaleYT](https://github.com/BlueWhaleYT) and [https://github.com/CodeWhaleOfficial](https://github.com/CodeWhaleOfficial)
+- 👨‍💻 All of my projects are available at [https://github.com/BlueWhaleYT](https://github.com/BlueWhaleYT) and [https://github.com/CodeWhaleStudio](https://github.com/CodeWhaleStudio)
 
 - ⚡ Fun fact **I think a whale needs to be recomposed.**
 
