@@ -7,6 +7,8 @@ I am NOT a moderator of any companies or cooperation **except CodeWhaleStudio - 
 
 I will contribute to projects if I am willing to. For example, I will contribute projects for **my friends in local** in higher priority.
 
+I don't care about stars of repositories, I know the stars are the motivation and effort for some of developers. But I am  not work for stars, I work for myself. Plsu, be good yourself before helping others.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluewhaleyt&label=Profile%20views&color=0e75b6&style=flat" alt="bluewhaleyt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluewhaleyt" alt="bluewhaleyt" /></a> </p>
