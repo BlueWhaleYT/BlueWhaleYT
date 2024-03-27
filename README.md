@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm BlueWhaleYT</h1>
 <h3 align="center">A jetpack compose developer mainly for Android.</h3>
 
-Notes: I am not the moderator or contributor of GhostWebIDE, I earnestly hope that he will get there.
-
 I am NOT a moderator of any companies or cooperation **except CodeWhaleStudio - the organization which is organized by myself**. If you are seeing any of the credits or info labeling "BlueWhaleYT" as helper or moderator from any program. They are normally not accepted by my own decision, but I will not reject if they do, they have freedom. I hope I also have.
 
 I will contribute to projects if I am willing to. For example, I will contribute projects for **my friends in local** in higher priority.
