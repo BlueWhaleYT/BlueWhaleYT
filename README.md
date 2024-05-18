@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm BlueWhaleYT</h1>
-<h3 align="center">A jetpack compose developer mainly for Android.</h3>
+<h3 align="center">I'm currently working on <a href="https://github.com/CodeWhaleStudio/CodeWhaleIDE">CodeWhaleIDE</a>.</h3>
 
-I am NOT a moderator of any companies or cooperation **except CodeWhaleStudio - the organization which is organized by myself**. If you are seeing any of the credits or info labeling "BlueWhaleYT" as helper or moderator from any program. They are normally not accepted by my own decision, but I will not reject if they do, they have freedom. I hope I also have.
 
-I will contribute to projects if I am willing to. For example, I will contribute projects for **my friends in local** in higher priority.
-
-I don't care about stars of repositories, I know the stars are the motivation and effort for some of developers. But I am  not work for stars, I work for myself. Plsu, be good yourself before helping others.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluewhaleyt&label=Profile%20views&color=0e75b6&style=flat" alt="bluewhaleyt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluewhaleyt" alt="bluewhaleyt" /></a> </p>
 
-- 🔭 I’m currently working on **CodeWhale**
+- 🔭 I’m currently working on <a href="https://github.com/CodeWhaleStudio/CodeWhaleIDE">CodeWhaleIDE</a>
 
-- 🌱 I’m currently learning **Kotlin, Java, Jetpack Compose**
+- 🌱 I’m currently learning **Kotlin, Jetpack Compose**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BlueWhaleYT](https://github.com/BlueWhaleYT) and [https://github.com/CodeWhaleStudio](https://github.com/CodeWhaleStudio)
 
-- ⚡ Fun fact **I think a whale needs to be recomposed.**
+- ⚡ Fun fact: **Everything is possible, as long as you're powerful.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
