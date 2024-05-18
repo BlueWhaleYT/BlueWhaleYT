@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluewhaleyt&label=Profile%20views&color=0e75b6&style=flat" alt="bluewhaleyt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluewhaleyt" alt="bluewhaleyt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluewhaleyt&theme=onedark" alt="bluewhaleyt" /></a> </p>
 
 - 🔭 I’m currently working on <a href="https://github.com/CodeWhaleStudio/CodeWhaleIDE">CodeWhaleIDE</a>
 
